@@ -10,3 +10,6 @@ python main.py
 
 
 Change keys in Joueur.py lines: 72 for W - 74 for A - 76 for D - 78 for S
+
+TO-DO
+{sequence apparition}
